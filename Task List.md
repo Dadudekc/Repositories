@@ -1,0 +1,74 @@
+# PRD Creation Task List
+
+This task list tracks PRD creation or modification for each submodule. PRDs should be stored in each repository's `docs` directory and follow the format described in [PRD_TEMPLATE.md](PRD_TEMPLATE.md).
+
+| Repository Path | Action | Status |
+|-----------------|--------|--------|
+| `Dadudekc/Agent_Cellphone` | Create PRD | [ ] |
+| `Dadudekc/agentproject` | Create PRD | [ ] |
+| `Dadudekc/AI_Debugger_Assistant` | Create PRD | [ ] |
+| `Dadudekc/ai-task-organizer` | Create PRD | [ ] |
+| `Dadudekc/Auto_Blogger` | Create PRD | [ ] |
+| `Dadudekc/basicbot` | Create PRD | [ ] |
+| `Dadudekc/bolt-project` | Create PRD | [ ] |
+| `Dadudekc/content` | Create PRD | [ ] |
+| `Dadudekc/contract-leads` | Create PRD | [ ] |
+| `Dadudekc/DaDudekC` | Create PRD | [ ] |
+| `Dadudekc/DaDudeKC-Website` | Create PRD | [ ] |
+| `Dadudekc/DigitalDreamscape` | Create PRD | [ ] |
+| `Dadudekc/Dream.os` | Create PRD | [ ] |
+| `Dadudekc/DreamVault` | Create PRD | [ ] |
+| `Dadudekc/FocusForge` | Create PRD | [ ] |
+| `Dadudekc/FreeRideInvestor` | Create PRD | [ ] |
+| `Dadudekc/FreerideinvestorWebsite` | Create PRD | [ ] |
+| `Dadudekc/FreeWork` | Create PRD | [ ] |
+| `Dadudekc/gpt_automation` | Create PRD | [ ] |
+| `Dadudekc/HCshinobi` | Create PRD | [ ] |
+| `Dadudekc/Hive-Mind` | Create PRD | [ ] |
+| `Dadudekc/ideas` | Create PRD | [ ] |
+| `Dadudekc/IT_help_desk` | Create PRD | [ ] |
+| `Dadudekc/LSTMmodel_trainer` | Create PRD | [ ] |
+| `Dadudekc/machinelearningmodelmaker` | Create PRD | [ ] |
+| `Dadudekc/machinelearningproject` | Create PRD | [ ] |
+| `Dadudekc/MeTuber` | Create PRD | [ ] |
+| `Dadudekc/MLRobotmaker` | Create PRD | [ ] |
+| `Dadudekc/my-personal-templates` | Create PRD | [ ] |
+| `Dadudekc/my-resume` | Create PRD | [ ] |
+| `Dadudekc/network-scanner` | Create PRD | [ ] |
+| `Dadudekc/NewSims4ModProject` | Create PRD | [ ] |
+| `Dadudekc/organizer-validation` | Create PRD | [ ] |
+| `Dadudekc/osrsAIagent` | Create PRD | [ ] |
+| `Dadudekc/osrsbot` | Create PRD | [ ] |
+| `Dadudekc/practice` | Create PRD | [ ] |
+| `Dadudekc/projectscanner` | Create PRD | [ ] |
+| `Dadudekc/prompt-library` | Create PRD | [ ] |
+| `Dadudekc/repository` | Create PRD | [ ] |
+| `Dadudekc/Resume-Showcase` | Create PRD | [ ] |
+| `Dadudekc/self-evolving-ai` | Create PRD | [ ] |
+| `Dadudekc/Side-projects` | Create PRD | [ ] |
+| `Dadudekc/SmartStock-pro` | Create PRD | [ ] |
+| `Dadudekc/socialmediamanager` | Create PRD | [ ] |
+| `Dadudekc/SouthwestsSecretDjBoard` | Create PRD | [ ] |
+| `Dadudekc/stock_portfolio_manager` | Create PRD | [ ] |
+| `Dadudekc/stocktwits-analyzer` | Create PRD | [ ] |
+| `Dadudekc/Streamertools` | Create PRD | [ ] |
+| `Dadudekc/Superpowered-TTRPG` | Create PRD | [ ] |
+| `Dadudekc/SWARM` | Create PRD | [ ] |
+| `Dadudekc/TBOWTactics` | Create PRD | [ ] |
+| `Dadudekc/Thea` | Create PRD | [ ] |
+| `Dadudekc/TheTradingRobotPlug` | Create PRD | [ ] |
+| `Dadudekc/trade_analyzer` | Create PRD | [ ] |
+| `Dadudekc/trading-leads-bot` | Create PRD | [ ] |
+| `Dadudekc/TradingRobotPlug` | Create PRD | [ ] |
+| `Dadudekc/TradingRobotPlugWeb` | Create PRD | [ ] |
+| `Dadudekc/TROOP` | Create PRD | [ ] |
+| `Dadudekc/TRPlugLibrary` | Create PRD | [ ] |
+| `Dadudekc/ultimate_trading_intelligence` | Create PRD | [ ] |
+| `Dadudekc/UltimateOptionsTradingRobot` | Create PRD | [ ] |
+| `Dadudekc/Victor.os` | Create PRD | [ ] |
+| `Datgurll/Digital-dreamscape` | Create PRD | [ ] |
+| `PauGCO/Email-Cleanup-App` | Create PRD | [ ] |
+| `QuianaSampson/Auto_Blogger` | Create PRD | [ ] |
+| `QuianaSampson/NightShift` | Create PRD | [ ] |
+| `QuianaSampson/Sims4ModUpdaters` | Create PRD | [ ] |
+| `QuianaSampson/TradingRobotPlugWebTheme` | Create PRD | [ ] |
